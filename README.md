@@ -53,9 +53,14 @@ Berdasarkan pengujian pada data test, model mencapai performa berikut:
 | Recall (Negatif) | 89% |
 | Recall (Positif) | 88% |
 
-**Grafik Akurasi & Loss:**
+
+**Grafik Akurasi:**
 ![Grafik Model](images/grafik_accuracy.png)
+
+
+**Grafik Loss:**
 ![Grafik Model](images/grafik_loss.png)
+
 
 **Confusion Matrix:**
 ![Confusion Matrix](images/confusion_matrix.png)
