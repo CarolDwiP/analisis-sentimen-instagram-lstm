@@ -1,6 +1,12 @@
 # analisis-sentimen-instagram-lstm
 # Analisis Sentimen Ulasan Aplikasi Instagram Menggunakan Deep Learning (LSTM)
 
+# ANGGOTA KELOMPOK
+1. ARIP
+2. CAROL DP
+3. ARYA PANGESTU
+4. RAFDY FAUZAN
+
 Repositori ini berisi dokumentasi proyek analisis sentimen terhadap ulasan pengguna aplikasi Instagram di Google Play Store. Proyek ini bertujuan untuk mengklasifikasikan ulasan menjadi sentimen **Positif** atau **Negatif** menggunakan metode Deep Learning.
 
 ## 📌 Ringkasan Proyek
@@ -48,8 +54,8 @@ Berdasarkan pengujian pada data test, model mencapai performa berikut:
 | Recall (Positif) | 88% |
 
 **Grafik Akurasi & Loss:**
-*(Pastikan kamu upload screenshot grafik dari notebook ke folder images dan ganti nama filenya di bawah ini)*
-![Grafik Model](images/grafik_model.png)
+![Grafik Model](images/grafik_accuracy.png)
+![Grafik Model](images/grafik_loss.png)
 
 **Confusion Matrix:**
 ![Confusion Matrix](images/confusion_matrix.png)
