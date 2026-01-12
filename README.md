@@ -1,5 +1,5 @@
-# analisis-sentimen-instagram-lstm
-# Analisis Sentimen Ulasan Aplikasi Instagram Menggunakan Deep Learning (LSTM)
+# analisis-sentimen-apllikasi-lstm
+# Analisis Sentimen Ulasan Aplikasi Menggunakan Deep Learning (LSTM)
 
 # ANGGOTA KELOMPOK
 1. ARIP
